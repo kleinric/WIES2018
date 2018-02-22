@@ -3,7 +3,7 @@ channels:
 dependencies:
   - python
   - numpy
-  - skimage
+  - scikit-image
   - psutil
   - matplotlib
 
